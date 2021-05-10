@@ -1,0 +1,2 @@
+rootProject.name = "koyu.space VHS"
+include ':app'
